@@ -1,0 +1,14 @@
+{
+  "name": "cypress-saucedemo",
+  "version": "1.0.0",
+  "description": "Cypress UI automation project for SauceDemo",
+  
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+
+  "devDependencies": {
+    "cypress": "^16.0.0"
+  }
+}
